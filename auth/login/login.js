@@ -2,7 +2,7 @@ import { auth, signInWithEmailAndPassword } from "../../utils/utils.js";
 
 const login_form = document.getElementById("login_form");
 console.log(login_form);
-console.log('chl gaa');
+// console.log('chl gaa');
 
 login_form.addEventListener("submit", function (e) {
   e.preventDefault();

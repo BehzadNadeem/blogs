@@ -1,0 +1,24 @@
+#user_image{
+    border-radius: 50px;
+    height: 45px;
+    width: 47px;
+}
+#login_btn{
+    border-radius: 7px;
+}
+
+#Logout_btn{
+    border-radius: 7px;
+}
+#Logout_btn:hover{
+    border-radius: 7px;
+    background-color: black;
+    color: white;
+    transition: 1s;
+}
+#login_btn:hover{
+    border-radius: 7px;
+    background-color: black;
+    color: white;
+    transition: 1s;
+}

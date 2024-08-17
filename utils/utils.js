@@ -24,9 +24,9 @@
  const auth = getAuth(app);
  const db = getFirestore(app);
  const storage=getStorage(app);
- console.log(auth);
- console.log(db);
- console.log(storage);
+//  console.log(auth);
+//  console.log(db);
+//  console.log(storage);
 
 
 
